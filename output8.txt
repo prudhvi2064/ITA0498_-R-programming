@@ -1,0 +1,8 @@
+First 10 lowercase letters:
+ [1] "a" "b" "c" "d" "e" "f" "g" "h" "i" "j"
+
+Last 10 uppercase letters:
+ [1] "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z"
+
+Letters 22nd to 24th in uppercase:
+[1] "V" "W" "X"

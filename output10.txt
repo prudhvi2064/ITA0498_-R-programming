@@ -1,0 +1,4 @@
+Vector:
+ 31 79 51 14 67 42 50 43 97 25 
+Maximum value: 97 
+Minimum value: 14 

@@ -1,0 +1,3 @@
+Your name is: age <- as.numeric(readline(prompt = "Enter your age: "))  # Use as.numeric to handle numbers correctly 
+Your age is: 12 
+R version installed: R version 4.4.2 (2024-10-31 ucrt) 
