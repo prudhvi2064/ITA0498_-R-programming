@@ -1,0 +1,7 @@
+  Vehicle fm Mileage  lh     lc     mc State  X Vehicle.1       vechile.ID
+1       1  0     863 1.1  66.30 697.23    MS NA        fm    failure month
+2       2 10    4644 2.4 233.03 119.66    CA NA        lh      labour hour
+3       3 15   16330 4.2 325.08 175.46    WI NA        lc      labour cost
+4       4  0      13 1.0  66.64   0.00    OR NA        mc    material cost
+5       5 13   22537 4.5 328.66 175.46    AZ NA     state state of failure
+6       6 21   40931 3.1 205.28 175.46    FL NA                           

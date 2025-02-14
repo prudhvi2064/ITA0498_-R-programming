@@ -1,0 +1,4 @@
+Unique characters in the string:
+[1] "s" "t" "a" "i" "c"
+Unique numbers in the vector:
+[1] 1 2 3 4 5 6 7
